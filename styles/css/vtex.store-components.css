@@ -7,9 +7,15 @@
     background-color: rgb(255, 242, 249);
 }
 
-.infoCardCallActionContainer--button{
+.infoCardCallActionContainer--pink-card :global(.vtex-button){
     background-color: rgb(202, 128, 119);
+    border:transparent;
 } 
+
+.infoCardCallActionContainer--pink-card :global(.vtex-button):hover {
+    background-color: rgb(166, 63, 97);
+    border: transparent;
+  }
 
 .infoCardContainer--gray-card{
     background-color: rgb(243, 243, 243);

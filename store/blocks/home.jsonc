@@ -103,7 +103,7 @@
   },
   "rich-text#hello": {
     "props": {
-      "text": "Hello"
+      "text": "Hello i'm a modal!!"
     }
   },
   /* Info Cards */
@@ -262,6 +262,7 @@
       "alt": "Coffee Makers Collection"
     }
   },
+  //sumary product list
   "list-context.product-list": {
     "blocks": [
       "product-summary.shelf"

@@ -1,0 +1,41 @@
+.infoCardContainer{
+    width:80%;
+    margin:auto;
+}
+
+.infoCardContainer--pink-card{
+    background-color: rgb(255, 242, 249);
+}
+
+.infoCardCallActionContainer--button{
+    background-color: rgb(202, 128, 119);
+} 
+
+.infoCardContainer--gray-card{
+    background-color: rgb(243, 243, 243);
+}
+
+
+.infoCardContainer--small-card{
+    margin-right: 0;
+}
+
+.infoCardContainer--small-card-two{
+    margin-left: 0;
+}
+
+.infoCardHeadline--small-card-two{
+    color:rgb(210, 116, 103);
+}
+
+.infoCardCallActionText--small-card-two{
+    color:rgb(70, 35, 18);
+}
+
+.infoCardContainer--rethink{
+    height: -webkit-fill-available;
+}
+
+.imageElement--cover {
+    object-fit: cover;
+  }
